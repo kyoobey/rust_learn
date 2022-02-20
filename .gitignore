@@ -1,0 +1,6 @@
+
+.sublime_workspaces/
+*target/
+
+*.lock
+*.gitignore
