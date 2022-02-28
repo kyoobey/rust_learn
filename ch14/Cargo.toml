@@ -1,5 +1,5 @@
 [package]
-name = "rustbook-ch14-02"
+name = "rustbook_ch14_02"
 version = "0.0.1"
 edition = "2021"
 description = "rustbook chapter 14 02 about cargo"
