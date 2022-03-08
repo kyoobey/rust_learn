@@ -1,0 +1,10 @@
+
+
+[workspace]
+
+members = [
+	"oop1",
+	"oop2_gui",
+	"oop3_blog",
+	"oop3_blog_2"
+]
