@@ -1,0 +1,14 @@
+
+
+
+[package]
+name = "app"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
+rename_phrases = { path = "../rename_phrases" }
+log = "~0.4.17"
+simple_logger = { version = "*", features = ["colors"] }
+
+
